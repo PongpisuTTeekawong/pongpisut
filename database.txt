@@ -1,0 +1,4 @@
+http://mw.ac.th/phpmyadmin/
+
+user:mwdotac_root 
+password:0502!@#        
